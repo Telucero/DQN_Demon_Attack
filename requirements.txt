@@ -1,0 +1,11 @@
+gym
+atari-py
+imageio
+numpy
+torch
+pyglet
+tqdm
+matplotlib
+IPython
+pandas
+seaborn
